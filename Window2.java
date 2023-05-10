@@ -23,9 +23,9 @@ public class Window2 extends JFrame
         super("File Loader");
         setSize(new Dimension((int)screen.width/2, (int)screen.height/2));
         setLayout(new FlowLayout(FlowLayout.LEADING));
-        setVisible(true);
-        setResizable(true);
         initComponents();
+        setVisible(true);
+        setResizable(false);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
     
