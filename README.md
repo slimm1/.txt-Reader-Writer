@@ -11,6 +11,8 @@ GUI de java para leer y escribir ficheros con extension '.txt' únicamente.
   - ActionListener... uso de clase de control externa para llamadas de accion
   - ToolKit para cálculos de tamaño de pantalla
 
+Para ejecutar crear una nueva instancia de la clase Control.
+
 
 
 
